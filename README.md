@@ -7,7 +7,7 @@ You can modify 'work.sh' to adjust some parameters of our program.
 
 -mesh_file ./nano_mesh/nano_l1.mesh # the mesh file of a nanopore
 
--bias_anode 5.0                     # the applied voltage 
+-bias_anode 5.0                     # the applied voltage, the unit is V
 
 -bias_surface_charge -1.0e-7        # the surface charge density on the nanopore, the unit is C/cm^2
 
